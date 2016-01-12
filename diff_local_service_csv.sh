@@ -23,5 +23,5 @@ wc -l ./working/non_gov_urls_from_diff
 #wc -l ./working/removed_services_from_diff
 
 for existing in ./working/*; do
-  cp $existing ./history/${existing##*/}_$(date +%F-%T)
+  cp $existing ./history/${existing##*/}_$(date +%F)
 done
