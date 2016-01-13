@@ -22,6 +22,12 @@ wc -l ./working/non_gov_urls_from_diff
 #echo X rows affected...
 #wc -l ./working/removed_services_from_diff
 
+./csv_urls.rb > ./working/urls.txt
+sort ./working/urls.txt > ./working/sorted_urls.txt
+./dedupe_domains.rb ./working/sorted_urls.txt > ./working/unique_urls.txt
+
+rm ./working/urls.txt
+
 for existing in ./working/*; do
-  cp $existing ./history/${existing##*/}_$(date +%F-%T)
+  cp $existing ./history/${existing##*/}_$(date +%F)
 done
