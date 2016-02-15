@@ -1,0 +1,385 @@
+3329,3331c3329,3331
+< London Borough of Bexley,00AD,21,Find out about educating your child at home,1,8,http://www.bexley.gov.uk/article/12285,04-01-2016 16:16:23
+< London Borough of Bexley,00AD,21,Apply for help with school clothing costs,2,0,http://www.bexley.gov.uk/article/4022,04-01-2016 16:17:42
+< London Borough of Bexley,00AD,21,Find out about help with school clothing costs,2,8,http://www.bexley.gov.uk/article/4022,04-01-2016 16:17:50
+---
+> London Borough of Bexley,00AD,21,Find out about educating your child at home,1,8,http://www.bexley.gov.uk/article/12285/Elective-Home-Education,26-01-2016 16:53:38
+> London Borough of Bexley,00AD,21,Apply for help with school clothing costs,2,0,http://www.bexley.gov.uk/article/4022/Education-discretionary-grants,26-01-2016 16:54:00
+> London Borough of Bexley,00AD,21,Find out about help with school clothing costs,2,8,http://www.bexley.gov.uk/article/4022/Education-discretionary-grants,26-01-2016 16:54:06
+23882,23886c23882,23885
+< Exeter City Council,18UC,122,Find out about discounts on council tax,59,8,http://exeter.gov.uk/index.aspx?articleid=8922,24-01-2013 14:59:31
+< Exeter City Council,18UC,122,Apply for an exemption from council tax,60,0,http://exeter.gov.uk/index.aspx?articleid=8923,24-01-2013 15:03:22
+< Exeter City Council,18UC,122,Find out about exemptions from council tax,60,8,http://exeter.gov.uk/index.aspx?articleid=8923,24-01-2013 15:03:35
+< Exeter City Council,18UC,122,Apply for a council tax band reduction,61,0,http://exeter.gov.uk/index.aspx?articleid=8924,24-01-2013 15:05:26
+< Exeter City Council,18UC,122,Find out about council tax band reductions,61,8,http://www.exeter.gov.uk/index.aspx?articleid=8931,02-07-2009 16:59:41
+---
+> Exeter City Council,18UC,122,Find out about discounts on council tax,59,8,http://exeter.gov.uk/council-tax/council-tax-exemptions/council-tax-discounts/,25-01-2016 10:37:40
+> Exeter City Council,18UC,122,Apply for an exemption from council tax,60,0,https://apps02.exeter.gov.uk/publicaccesslive/selfservice/dashboard.htm,25-01-2016 10:38:19
+> Exeter City Council,18UC,122,Find out about exemptions from council tax,60,8,http://exeter.gov.uk/council-tax/council-tax-exemptions/people-and-properties-exempt-from-paying-council-tax/,25-01-2016 10:38:34
+> Exeter City Council,18UC,122,Apply for a council tax band reduction,61,0,https://apps02.exeter.gov.uk/publicaccesslive/selfservice/dashboard.htm,25-01-2016 10:38:58
+30119c30118
+< Hartlepool Borough Council,00EB,150,Find out about abandoned vehicles,372,8,http://www.hartlepool.gov.uk/site/scripts/documents_info.php?documentID=1027&pageNumber=4,08-02-2010 21:17:06
+---
+> Hartlepool Borough Council,00EB,150,Find out about abandoned vehicles,372,8,https://www.hartlepool.gov.uk/info/20201/abandoned_untaxed_or_nuisance_vehicles/72/abandoned_untaxed_or_nuisance_vehicles,26-01-2016 09:03:51
+30150,30161c30149,30160
+< Hartlepool Borough Council,00EB,150,Find out about library services,437,8,http://www.hartlepool.gov.uk/info/200062/libraries,08-02-2010 21:17:16
+< Hartlepool Borough Council,00EB,150,Apply to join a library,438,0,http://www.hartlepool.gov.uk/info/200062/libraries,08-02-2010 21:17:16
+< Hartlepool Borough Council,00EB,150,Find out about joining a library,438,8,http://www.hartlepool.gov.uk/info/200062/libraries,08-02-2010 21:17:16
+< Hartlepool Borough Council,00EB,150,Reserve a library book,439,0,http://www.hartlepool.gov.uk/info/200062/libraries,08-02-2010 21:17:07
+< Hartlepool Borough Council,00EB,150,Search the library catalogue,439,8,http://www.hartlepool.gov.uk/info/200062/libraries,08-02-2010 21:17:07
+< Hartlepool Borough Council,00EB,150,Renew a library book,440,0,http://www.hartlepool.gov.uk/info/200062/libraries,08-02-2010 21:17:07
+< Hartlepool Borough Council,00EB,150,Find out about library loans,440,8,http://www.hartlepool.gov.uk/info/200062/libraries,08-02-2010 21:17:07
+< Hartlepool Borough Council,00EB,150,Book internet access in a library,442,1,http://www.hartlepool.gov.uk/info/200062/libraries,03-03-2010 21:21:26
+< Hartlepool Borough Council,00EB,150,Find out about internet access in a library,442,8,http://www.hartlepool.gov.uk/info/200062/libraries,08-02-2010 21:17:17
+< Hartlepool Borough Council,00EB,150,Find out about library fines,443,8,http://www.hartlepool.gov.uk/info/200062/libraries,08-02-2010 21:17:07
+< Hartlepool Borough Council,00EB,150,Find out about mobile libraries,444,8,http://www.hartlepool.gov.uk/info/200062/libraries,08-02-2010 21:17:17
+< Hartlepool Borough Council,00EB,150,Find out about the historical search service in a library,445,8,http://www.hartlepool.gov.uk/info/200062/libraries,08-02-2010 21:17:17
+---
+> Hartlepool Borough Council,00EB,150,Find out about library services,437,8,http://capitadiscovery.co.uk/hartlepool/,26-01-2016 16:09:03
+> Hartlepool Borough Council,00EB,150,Apply to join a library,438,0,https://www.hartlepool.gov.uk/info/20012/libraries/177/how_do_i_join_the_library,26-01-2016 16:15:04
+> Hartlepool Borough Council,00EB,150,Find out about joining a library,438,8,https://www.hartlepool.gov.uk/info/20012/libraries/177/how_do_i_join_the_library,26-01-2016 16:12:55
+> Hartlepool Borough Council,00EB,150,Reserve a library book,439,0,http://capitadiscovery.co.uk/hartlepool/,26-01-2016 16:16:21
+> Hartlepool Borough Council,00EB,150,Search the library catalogue,439,8,http://capitadiscovery.co.uk/hartlepool/,26-01-2016 15:57:46
+> Hartlepool Borough Council,00EB,150,Renew a library book,440,0,http://capitadiscovery.co.uk/hartlepool/,26-01-2016 15:59:12
+> Hartlepool Borough Council,00EB,150,Find out about library loans,440,8,http://capitadiscovery.co.uk/hartlepool/,26-01-2016 16:00:47
+> Hartlepool Borough Council,00EB,150,Book internet access in a library,442,1,https://www.hartlepool.gov.uk/info/20012/libraries/274/library_locations_and_opening_times,26-01-2016 16:07:48
+> Hartlepool Borough Council,00EB,150,Find out about internet access in a library,442,8,https://www.hartlepool.gov.uk/info/20012/libraries/274/library_locations_and_opening_times,26-01-2016 15:33:23
+> Hartlepool Borough Council,00EB,150,Find out about library fines,443,8,https://www.hartlepool.gov.uk/downloads/file/329/library_charges_2015-16,26-01-2016 15:39:19
+> Hartlepool Borough Council,00EB,150,Find out about mobile libraries,444,8,https://www.hartlepool.gov.uk/info/20012/libraries/173/mobile_and_home_library_service,26-01-2016 15:42:01
+> Hartlepool Borough Council,00EB,150,Find out about the historical search service in a library,445,8,https://www.hartlepool.gov.uk/info/20012/libraries/183/family_and_local_history_library,26-01-2016 15:55:44
+30332c30331
+< Hartlepool Borough Council,00EB,150,Find out about transport for 16-19 year olds in education,1135,8,http://www.hartlepool.gov.uk/download/13034/post_16_policy,20-07-2015 09:56:51
+---
+> Hartlepool Borough Council,00EB,150,Find out about transport for 16-19 year olds in education,1135,8,https://www.hartlepool.gov.uk/info/20190/school_transport/28/post_16_transport,26-01-2016 09:00:29
+39606,39607c39605,39606
+< Luton Borough Council,00KA,192,Find out about licences - boarding animals,374,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/animal_licences/pages/licence%20-%20boarding%20animals.aspx ,27-11-2015 17:48:55
+< Luton Borough Council,00KA,192,Regulation of licences - boarding animals,374,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/animal_licences/pages/licence%20-%20boarding%20animals.aspx ,27-11-2015 17:48:55
+---
+> Luton Borough Council,00KA,192,Find out about licences - boarding animals,374,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Animal_licences/Pages/Licence%20-%20boarding%20animals.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of licences - boarding animals,374,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Animal_licences/Pages/Licence%20-%20boarding%20animals.aspx,25-01-2016 16:17:31
+39611,39612c39610,39611
+< Luton Borough Council,00KA,192,Find out about : Licences - pet shops,375,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/animal_licences/pages/licence%20-%20pet%20shop.aspx ,27-11-2015 17:48:55
+< Luton Borough Council,00KA,192,Regulation of licences - pet shops,375,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/animal_licences/pages/licence%20-%20pet%20shop.aspx,08-01-2015 12:25:51
+---
+> Luton Borough Council,00KA,192,Find out about : Licences - pet shops,375,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Animal_licences/Pages/Licence%20-%20pet%20shop.aspx,25-01-2016 16:25:54
+> Luton Borough Council,00KA,192,Regulation of licences - pet shops,375,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Animal_licences/Pages/Licence%20-%20pet%20shop.aspx,25-01-2016 16:17:31
+39614c39613
+< Luton Borough Council,00KA,192,Application to renew a licence - pet shops,375,14,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/animal_licences/pages/licence%20-%20pet%20shop.aspx,08-01-2015 12:25:09
+---
+> Luton Borough Council,00KA,192,Application to renew a licence - pet shops,375,14,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Animal_licences/Pages/Licence%20-%20pet%20shop.aspx,25-01-2016 16:17:31
+39616c39615
+< Luton Borough Council,00KA,192,Find out about: Registration - scrap metal - site registration,378,8,http://www.luton.gov.uk/Business/Business_support_and_advice/Permits%20Authorisations%20and%20Licences/Pages/Scrap-Metal-Dealers-Act-2013.aspx,15-10-2013 15:50:49
+---
+> Luton Borough Council,00KA,192,Find out about: Registration - scrap metal - site registration,378,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Scrap-Metal-Dealers-Act-2013.aspx,25-01-2016 16:17:31
+39619,39620c39618,39619
+< Luton Borough Council,00KA,192,Find out about occupation of road in connection with building work,382,8,http://www.luton.gov.uk/Business/Business_support_and_advice/Permits%20Authorisations%20and%20Licences/Building_and_construction_licences/Pages/Licence%20-%20scaffolding%20and%20hoarding.aspx ,27-11-2015 17:48:55
+< Luton Borough Council,00KA,192,Registration of occupation of road in connection with building work,382,9,http://www.luton.gov.uk/Business/Business_support_and_advice/Permits%20Authorisations%20and%20Licences/Building_and_construction_licences/Pages/Licence%20-%20scaffolding%20and%20hoarding.aspx ,27-11-2015 17:48:55
+---
+> Luton Borough Council,00KA,192,Find out about occupation of road in connection with building work,382,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Building_and_construction_licences/Pages/Licence%20-%20scaffolding%20and%20hoarding.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Registration of occupation of road in connection with building work,382,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Building_and_construction_licences/Pages/Licence%20-%20scaffolding%20and%20hoarding.aspx,25-01-2016 16:17:31
+39623,39624c39622,39623
+< Luton Borough Council,00KA,192,Find out about licences - sex shops,388,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/entertainment_licences/pages/licence%20-%20sex%20establishment.aspx,08-01-2015 13:47:37
+< Luton Borough Council,00KA,192,Regulation of licences - sex shops,388,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/entertainment_licences/pages/licence%20-%20sex%20establishment.aspx,08-01-2015 13:48:00
+---
+> Luton Borough Council,00KA,192,Find out about licences - sex shops,388,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Entertainment_licences/Pages/Licence%20-%20sex%20establishment.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of licences - sex shops,388,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Entertainment_licences/Pages/Licence%20-%20sex%20establishment.aspx,25-01-2016 16:17:31
+39627c39626
+< Luton Borough Council,00KA,192,Find out about food premises registration,390,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/food%20business.aspx,08-01-2015 13:48:50
+---
+> Luton Borough Council,00KA,192,Find out about food premises registration,390,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/food%20business.aspx,25-01-2016 16:17:31
+39630c39629
+< Luton Borough Council,00KA,192,Find out about illegal street trading,399,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/street_trading_licences/pages/street%20trading%20-%20illegal.aspx ,27-11-2015 17:48:55
+---
+> Luton Borough Council,00KA,192,Find out about illegal street trading,399,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Street_trading_licences/Pages/Street%20trading%20-%20illegal.aspx,25-01-2016 16:17:31
+39632,39633c39631,39632
+< Luton Borough Council,00KA,192,Find out about licences - street trading,400,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/street_trading_licences/Pages/default.aspx,08-01-2015 13:50:57
+< Luton Borough Council,00KA,192,Regulation of licences - street trading,400,9,http://www.luton.gov.uk/Business/Business_support_and_advice/Permits%20Authorisations%20and%20Licences/Street_trading_licences/Pages/Licence%20-%20street%20collection.aspx,08-01-2015 13:53:53
+---
+> Luton Borough Council,00KA,192,Find out about licences - street trading,400,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Street_trading_licences/Pages/default.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of licences - street trading,400,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Street_trading_licences/Pages/default.aspx,25-01-2016 16:17:31
+39655c39654
+< Luton Borough Council,00KA,192,Find out more about building regulations,499,8,http://www.luton.gov.uk/environment/planning/construction%20and%20building%20regulations/pages/how%20to%20submit%20a%20building%20control%20regulation.aspx,08-01-2015 14:15:25
+---
+> Luton Borough Council,00KA,192,Find out more about building regulations,499,8,http://www.luton.gov.uk/Environment/Planning/building-control/Pages/default.aspx,25-01-2016 16:17:31
+39700,39701c39699,39700
+< Luton Borough Council,00KA,192,Find out about Markets - stall rental,616,8,http://www.luton.gov.uk/Business/Business_support_and_advice/Permits%20Authorisations%20and%20Licences/Pages/Purley%20market.aspx,27-11-2015 17:48:55
+< Luton Borough Council,00KA,192,Regulation of markets - stall rental,616,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/purley%20market.aspx,08-01-2015 14:52:15
+---
+> Luton Borough Council,00KA,192,Find out about Markets - stall rental,616,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Purley%20market.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of markets - stall rental,616,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Purley%20market.aspx,25-01-2016 16:17:31
+39708,39709c39707,39708
+< Luton Borough Council,00KA,192,Find out about licences - private clubs,646,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/licensing%20act%202003.aspx ,27-11-2015 17:48:56
+< Luton Borough Council,00KA,192,Regulation of licences - private clubs,646,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/licensing%20act%202003.aspx,08-01-2015 14:58:02
+---
+> Luton Borough Council,00KA,192,Find out about licences - private clubs,646,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Licensing%20Act%202003.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of licences - private clubs,646,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Licensing%20Act%202003.aspx,25-01-2016 16:17:31
+39713,39714c39712,39713
+< Luton Borough Council,00KA,192,Find out about licences - street collection,647,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/street_trading_licences/pages/licence%20-%20street%20collection.aspx,08-01-2015 14:59:06
+< Luton Borough Council,00KA,192,Regulation of licences - street collection,647,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/street_trading_licences/pages/licence%20-%20street%20collection.aspx,08-01-2015 14:59:16
+---
+> Luton Borough Council,00KA,192,Find out about licences - street collection,647,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Street_trading_licences/Pages/Licence%20-%20street%20collection.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of licences - street collection,647,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Street_trading_licences/Pages/Licence%20-%20street%20collection.aspx,25-01-2016 16:17:31
+39717,39718c39716,39717
+< Luton Borough Council,00KA,192,Find out about licences - house to house collection ,648,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/street_trading_licences/pages/licence%20-%20house%20to%20house%20collection.aspx ,27-11-2015 17:48:56
+< Luton Borough Council,00KA,192,Regulation of licences - house to house collection ,648,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/street_trading_licences/pages/licence%20-%20house%20to%20house%20collection.aspx,08-01-2015 15:00:02
+---
+> Luton Borough Council,00KA,192,Find out about licences - house to house collection ,648,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Street_trading_licences/Pages/Licence%20-%20house%20to%20house%20collection.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of licences - house to house collection ,648,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Street_trading_licences/Pages/Licence%20-%20house%20to%20house%20collection.aspx,25-01-2016 16:17:31
+39726,39727c39725,39726
+< Luton Borough Council,00KA,192,Find out about registration - tattooists piercing and electrolysis,680,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/registration%20of%20skin%20piercing%20and%20other%20special%20treatments.aspx ,27-11-2015 17:48:56
+< Luton Borough Council,00KA,192,Regulation of registration - tattooists piercing and electrolysis,680,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/registration%20of%20skin%20piercing%20and%20other%20special%20treatments.aspx,08-01-2015 15:16:16
+---
+> Luton Borough Council,00KA,192,Find out about registration - tattooists piercing and electrolysis,680,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Registration%20of%20Skin%20Piercing%20and%20other%20Special%20Treatments.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of registration - tattooists piercing and electrolysis,680,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Registration%20of%20Skin%20Piercing%20and%20other%20Special%20Treatments.aspx,25-01-2016 16:17:31
+39730,39731c39729,39730
+< Luton Borough Council,00KA,192,Find out about skip licences,695,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/building_and_construction_licences/pages/skip%20operators.aspx,08-01-2015 15:17:55
+< Luton Borough Council,00KA,192,Regulation of licences - skip operators,695,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/building_and_construction_licences/pages/skip%20operators.aspx,08-01-2015 15:18:04
+---
+> Luton Borough Council,00KA,192,Find out about skip licences,695,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Building_and_construction_licences/Pages/skip%20operators.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of licences - skip operators,695,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Building_and_construction_licences/Pages/skip%20operators.aspx,25-01-2016 16:17:31
+39734,39735c39733,39734
+< Luton Borough Council,00KA,192,Find out about: Licences - riding establishment,696,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/animal_licences/pages/licence%20-%20riding%20establishment.aspx,08-01-2015 15:18:54
+< Luton Borough Council,00KA,192,Regulation of licences - riding establishment,696,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/animal_licences/pages/licence%20-%20riding%20establishment.aspx,08-01-2015 15:19:57
+---
+> Luton Borough Council,00KA,192,Find out about: Licences - riding establishment,696,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Animal_licences/Pages/Licence%20-%20riding%20establishment.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of licences - riding establishment,696,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Animal_licences/Pages/Licence%20-%20riding%20establishment.aspx,25-01-2016 16:17:31
+39739,39740c39738,39739
+< Luton Borough Council,00KA,192,Find out about: Licenses - zoos,699,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/animal_licences/pages/licence%20-%20zoo.aspx ,27-11-2015 17:48:56
+< Luton Borough Council,00KA,192,Regulation of licences - zoos,699,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/animal_licences/pages/licence%20-%20zoo.aspx,08-01-2015 15:21:21
+---
+> Luton Borough Council,00KA,192,Find out about: Licenses - zoos,699,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Animal_licences/Pages/Licence%20-%20zoo.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of licences - zoos,699,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Animal_licences/Pages/Licence%20-%20zoo.aspx,25-01-2016 16:17:31
+39747,39748c39746,39747
+< Luton Borough Council,00KA,192,Find out about licences - animal movement (sheep/goat/pigs) notification,706,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/animal_licences/pages/licence%20-%20animal%20movement.aspx ,27-11-2015 17:48:56
+< Luton Borough Council,00KA,192,Regulation of licences -licences - animal movement (sheep/goat/pigs) notification,706,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/animal_licences/pages/licence%20-%20animal%20movement.aspx,08-01-2015 15:38:05
+---
+> Luton Borough Council,00KA,192,Find out about licences - animal movement (sheep/goat/pigs) notification,706,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Animal_licences/Pages/Licence%20-%20animal%20movement.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of licences -licences - animal movement (sheep/goat/pigs) notification,706,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Animal_licences/Pages/Licence%20-%20animal%20movement.aspx,25-01-2016 16:17:31
+39750,39751c39749,39750
+< Luton Borough Council,00KA,192,Find out about  cooling tower registration  ,707,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/public%20health%20-%20cooling%20tower%20notification.aspx,08-01-2015 15:38:46
+< Luton Borough Council,00KA,192,Regulation of cooling tower registration,707,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/public%20health%20-%20cooling%20tower%20notification.aspx,08-01-2015 15:38:58
+---
+> Luton Borough Council,00KA,192,Find out about  cooling tower registration  ,707,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Public%20health%20-%20cooling%20tower%20notification.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of cooling tower registration,707,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Public%20health%20-%20cooling%20tower%20notification.aspx,25-01-2016 16:17:31
+39759,39760c39758,39759
+< Luton Borough Council,00KA,192,Find out about licences - street cafe,742,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/street%20cafe%20licence.aspx,08-01-2015 15:43:12
+< Luton Borough Council,00KA,192,Regulation of licences - street cafe,742,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/street%20cafe%20licence.aspx,08-01-2015 15:43:31
+---
+> Luton Borough Council,00KA,192,Find out about licences - street cafe,742,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Street%20cafe%20licence.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of licences - street cafe,742,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Street%20cafe%20licence.aspx,25-01-2016 16:17:31
+39763,39764c39762,39763
+< Luton Borough Council,00KA,192,Find out about licences - caravan sites,743,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/leisure_licences/pages/licence%20-%20caravan%20site.aspx ,27-11-2015 17:48:56
+< Luton Borough Council,00KA,192,Regulation of licences - caravan sites,743,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/leisure_licences/pages/licence%20-%20caravan%20site.aspx,08-01-2015 15:44:28
+---
+> Luton Borough Council,00KA,192,Find out about licences - caravan sites,743,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Leisure_licences/Pages/Licence%20-%20caravan%20site.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of licences - caravan sites,743,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Leisure_licences/Pages/Licence%20-%20caravan%20site.aspx,25-01-2016 16:17:31
+39767,39768c39766,39767
+< Luton Borough Council,00KA,192,Find out about licences - highway projection,744,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/licence%20-%20highway%20projection.aspx,08-01-2015 15:49:55
+< Luton Borough Council,00KA,192,Regulation of licences - highway projection,744,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/licence%20-%20highway%20projection.aspx,08-01-2015 15:50:04
+---
+> Luton Borough Council,00KA,192,Find out about licences - highway projection,744,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Licence%20-%20highway%20projection.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of licences - highway projection,744,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Licence%20-%20highway%20projection.aspx,25-01-2016 16:17:31
+39773c39772
+< Luton Borough Council,00KA,192,Find out about animal health and welfare,788,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/animal_licences/pages/animal%20health%20and%20welfare.aspx ,27-11-2015 17:48:56
+---
+> Luton Borough Council,00KA,192,Find out about animal health and welfare,788,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Animal_licences/Pages/Animal%20health%20and%20welfare.aspx,25-01-2016 16:17:31
+39783,39784c39782,39783
+< Luton Borough Council,00KA,192,Find out about - safety certificates for sports grounds,842,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/licence%20of%20sport%20ground.aspx,08-01-2015 15:55:50
+< Luton Borough Council,00KA,192,Regulation of - safety certificates for sports grounds,842,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/licence%20of%20sport%20ground.aspx,08-01-2015 15:56:48
+---
+> Luton Borough Council,00KA,192,Find out about - safety certificates for sports grounds,842,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Licence%20of%20Sport%20Ground.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of - safety certificates for sports grounds,842,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Licence%20of%20Sport%20Ground.aspx,25-01-2016 16:17:31
+39791,39792c39790,39791
+< Luton Borough Council,00KA,192,Find out about licences: alcohol and entertainment - premises ,860,8,http://www.luton.gov.uk/Business/Business_support_and_advice/Permits%20Authorisations%20and%20Licences/Pages/Licensing%20Act%202003.aspx,19-03-2014 10:40:39
+< Luton Borough Council,00KA,192,Regulation of licences - alcohol and entertainment premises,860,9,http://www.luton.gov.uk/Business/Business_support_and_advice/Permits%20Authorisations%20and%20Licences/Pages/Licensing%20Act%202003.aspx,08-01-2015 16:05:30
+---
+> Luton Borough Council,00KA,192,Find out about licences: alcohol and entertainment - premises ,860,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Premises%20Licence.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of licences - alcohol and entertainment premises,860,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Premises%20Licence.aspx,25-01-2016 16:17:31
+39796,39797c39795,39796
+< Luton Borough Council,00KA,192,Find out about registration - motor salvage operator,866,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/motor%20salvage%20operator%20registration.aspx,08-01-2015 16:19:44
+< Luton Borough Council,00KA,192,Regulation of registration - motor salvage operator,866,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/motor%20salvage%20operator%20registration.aspx,08-01-2015 16:20:05
+---
+> Luton Borough Council,00KA,192,Find out about registration - motor salvage operator,866,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Motor%20Salvage%20Operator%20Registration.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of registration - motor salvage operator,866,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Motor%20Salvage%20Operator%20Registration.aspx,25-01-2016 16:17:31
+39809,39810c39808,39809
+< Luton Borough Council,00KA,192,Find out about licences - alcohol and entertainment - temporary event,1071,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/temporary%20events%20notice.aspx,09-01-2015 11:08:08
+< Luton Borough Council,00KA,192,Regulation of licences - alcohol and entertainment - temporary event,1071,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/temporary%20events%20notice.aspx,09-01-2015 11:08:20
+---
+> Luton Borough Council,00KA,192,Find out about licences - alcohol and entertainment - temporary event,1071,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Temporary%20Events%20Notice.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of licences - alcohol and entertainment - temporary event,1071,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Temporary%20Events%20Notice.aspx,25-01-2016 16:17:31
+39812,39813c39811,39812
+< Luton Borough Council,00KA,192,Find out about Licences - performing animals,1077,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/animal_licences/pages/performing%20animals%20licence.aspx,09-01-2015 11:13:38
+< Luton Borough Council,00KA,192,Regulation of licences - performing animals,1077,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/animal_licences/pages/performing%20animals%20licence.aspx,09-01-2015 11:13:52
+---
+> Luton Borough Council,00KA,192,Find out about Licences - performing animals,1077,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Animal_licences/Pages/Performing%20Animals%20Licence.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of licences - performing animals,1077,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Animal_licences/Pages/Performing%20Animals%20Licence.aspx,25-01-2016 16:17:31
+39825,39826c39824,39825
+< Luton Borough Council,00KA,192,Find out about - Safety certificate - sports grounds - regulated stands,1256,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/licence%20of%20sport%20ground.aspx ,27-11-2015 17:48:56
+< Luton Borough Council,00KA,192,Regulation of Safety certificate - sports grounds - regulated stands,1256,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/licence%20of%20sport%20ground.aspx,09-01-2015 11:40:46
+---
+> Luton Borough Council,00KA,192,Find out about - Safety certificate - sports grounds - regulated stands,1256,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Licence%20of%20Sport%20Ground.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of Safety certificate - sports grounds - regulated stands,1256,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Licence%20of%20Sport%20Ground.aspx,25-01-2016 16:17:31
+39830,39831c39829,39830
+< Luton Borough Council,00KA,192,Find out about food premises - approval ,1293,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/food%20business.aspx,09-01-2015 11:42:51
+< Luton Borough Council,00KA,192,Regulation of food premises - approval ,1293,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/food%20business.aspx,09-01-2015 11:42:59
+---
+> Luton Borough Council,00KA,192,Find out about food premises - approval ,1293,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/food%20business.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of food premises - approval ,1293,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/food%20business.aspx,25-01-2016 16:17:31
+39834,39835c39833,39834
+< Luton Borough Council,00KA,192,Find out about approval of premises for civil marriage and civil partnership,1296,8,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/approval%20of%20premises%20for%20civil%20marriage%20and%20patnership.aspx ,27-11-2015 17:48:56
+< Luton Borough Council,00KA,192,Regulation of approval of premises for civil marriage and civil partnership,1296,9,http://www.luton.gov.uk/business/business_support_and_advice/permits%20authorisations%20and%20licences/pages/approval%20of%20premises%20for%20civil%20marriage%20and%20patnership.aspx,09-01-2015 11:44:09
+---
+> Luton Borough Council,00KA,192,Find out about approval of premises for civil marriage and civil partnership,1296,8,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Approval%20of%20premises%20for%20civil%20marriage%20and%20patnership.aspx,25-01-2016 16:17:31
+> Luton Borough Council,00KA,192,Regulation of approval of premises for civil marriage and civil partnership,1296,9,http://www.luton.gov.uk/Business/Business_support_and_advice/licensing-and-regulation/Permits%20Authorisations%20and%20Licences/Pages/Approval%20of%20premises%20for%20civil%20marriage%20and%20patnership.aspx,25-01-2016 16:17:31
+46677d46675
+< North Tyneside Council,00CK,227,Apply to educate your child at home,1,0,http://www.northtyneside.gov.uk/browse-display.shtml?p_ID=524998&p_subjectCategory=1202,15-05-2015 22:20:06
+46738c46736
+< North Tyneside Council,00CK,227,Apply for direct payments,287,0,http://www.northtyneside.gov.uk/browse-display.shtml?p_ID=26179&p_subjectCategory=386,18-07-2008 21:17:25
+---
+> North Tyneside Council,00CK,227,Apply for direct payments,287,0,http://www.northtyneside.gov.uk/browse-display.shtml?p_ID=532125&p_subjectCategory=1412,25-01-2016 08:27:25
+69935c69933
+< Tandridge District Council,43UK,334,Find out about council tax benefit,63,8,http://www.tandridge.gov.uk/CouncilTaxandBenefits/Benefits/CouncilTaxBenefits/ctaxbenefit.htm,02-11-2010 08:11:07
+---
+> Tandridge District Council,43UK,334,Find out about council tax benefit,63,8,http://www.tandridge.gov.uk/CouncilTaxandBenefits/Benefits/ctaxbenefit.htm,25-01-2016 16:13:45
+74467c74465
+< Vale of White Horse District Council,38UE,355,Find out more about building regulations,499,8,http://www.whitehorsedc.gov.uk/services-and-advice/planning-and-building/building-control/do-i-need-approval,07-07-2011 15:36:58
+---
+> Vale of White Horse District Council,38UE,355,Find out more about building regulations,499,8,http://www.whitehorsedc.gov.uk/services-and-advice/planning-and-building/building-control-vale/do-i-need-approval,26-01-2016 13:27:06
+75472c75470
+< London Borough of Wandsworth,00BJ,360,Find out about rent arrears on a council tenancy,116,8,http://www.wandsworth.gov.uk/info/200372/i_am_a_council_tenant/101/my_rent/5,20-10-2015 12:20:18
+---
+> London Borough of Wandsworth,00BJ,360,Find out about rent arrears on a council tenancy,116,8,http://www.wandsworth.gov.uk/info/200532/rent/2072/rent_arrears,25-01-2016 10:30:09
+75474,75475c75472,75473
+< London Borough of Wandsworth,00BJ,360,Pay your council rent ,120,2,http://www.wandsworth.gov.uk/info/200027/council_housing/101/your_rent/8,28-06-2011 17:55:24
+< London Borough of Wandsworth,00BJ,360,Find out about council housing rents,120,8,http://www.wandsworth.gov.uk/info/200027/council_housing/101/your_rent,28-06-2011 17:55:24
+---
+> London Borough of Wandsworth,00BJ,360,Pay your council rent ,120,2,http://www.wandsworth.gov.uk/rent,25-01-2016 09:59:58
+> London Borough of Wandsworth,00BJ,360,Find out about council housing rents,120,8,http://www.wandsworth.gov.uk/rent,25-01-2016 10:35:49
+76642d76639
+< Waveney District Council,42UH,366,Find out about Disabled and older people - rail card,221,8,http://www.suffolkonboard.com/tickets-fares-concessionary-travel/tickets-and-fares,08-08-2014 13:17:41
+76871,76872c76868,76869
+< Waverley Borough Council,43UL,367,Apply for a mutual council home exchange,88,0,http://www.waverley.gov.uk/downloads/download/142/mutual_exchange_application_form,11-04-2014 13:38:02
+< Waverley Borough Council,43UL,367,Find out about mutual council home exchange,88,8,http://www.waverley.gov.uk/downloads/download/142/mutual_exchange_application_form,11-04-2014 13:38:02
+---
+> Waverley Borough Council,43UL,367,Apply for a mutual council home exchange,88,0,http://www.waverley.gov.uk/info/200213/housing_options/1218/exchanging_your_home_-_mutual_exchange,25-01-2016 10:36:39
+> Waverley Borough Council,43UL,367,Find out about mutual council home exchange,88,8,http://www.waverley.gov.uk/info/200213/housing_options/1218/exchanging_your_home_-_mutual_exchange,25-01-2016 10:36:39
+76887c76884
+< Waverley Borough Council,43UL,367,Apply to rent a council garage,115,0,http://www.waverley.gov.uk/downloads/file/4002/garage_application_form,20-03-2015 16:17:02
+---
+> Waverley Borough Council,43UL,367,Apply to rent a council garage,115,0,http://www.waverley.gov.uk/downloads/download/177/garage_application_form_and_list,25-01-2016 10:36:39
+77556,77557c77553,77554
+< Wellingborough Borough Council,34UH,370,Find out about licences - entertainment,797,8,http://www.east-northamptonshire.gov.uk/info/860/licence_-_alcohol_and_entertainment,29-08-2014 11:06:01
+< Wellingborough Borough Council,34UH,370,Regulation of licences - entertainment,797,9,http://www.east-northamptonshire.gov.uk/info/860/licence_-_alcohol_and_entertainment,29-08-2014 11:06:01
+---
+> Wellingborough Borough Council,34UH,370,Find out about licences - entertainment,797,8,http://www.east-northamptonshire.gov.uk/info/200237/entertainment_and_alcohol_licensing/1204/licensing_act_2003_-_advice_and_guidance,26-01-2016 08:59:18
+> Wellingborough Borough Council,34UH,370,Regulation of licences - entertainment,797,9,http://www.east-northamptonshire.gov.uk/info/200237/entertainment_and_alcohol_licensing,26-01-2016 08:59:18
+77564c77561
+< Wellingborough Borough Council,34UH,370,Have your say: licences - alcohol and entertainment - premises ,860,3,http://www.east-northamptonshire.gov.uk/info/860/licence_-_alcohol_and_entertainment,01-09-2014 08:28:56
+---
+> Wellingborough Borough Council,34UH,370,Have your say: licences - alcohol and entertainment - premises ,860,3,http://www.east-northamptonshire.gov.uk/info/200063/licences_and_street_trading/1753/entertainment_and_alcohol_licensing/3,26-01-2016 08:59:18
+78844,78845c78841,78842
+< West Lindsey District Council,32UH,376,Report an abandoned vehicle ,372,0,http://www.west-lindsey.gov.uk/residents/your-community/crime-and-disorder/abandoned-vehicles/,06-10-2014 09:47:06
+< West Lindsey District Council,32UH,376,Find out about abandoned vehicles,372,8,http://www.west-lindsey.gov.uk/residents/your-community/crime-and-disorder/abandoned-vehicles/,06-10-2014 09:46:37
+---
+> West Lindsey District Council,32UH,376,Report an abandoned vehicle ,372,0,http://www.west-lindsey.gov.uk/residents/your-community/community-safety/abandoned-vehicles/,25-01-2016 09:08:58
+> West Lindsey District Council,32UH,376,Find out about abandoned vehicles,372,8,http://www.west-lindsey.gov.uk/residents/your-community/community-safety/abandoned-vehicles/,25-01-2016 09:09:11
+78888,78889c78885,78886
+< West Lindsey District Council,32UH,376,Report a stray dog,432,0,http://www.west-lindsey.gov.uk/residents/your-community/crime-and-disorder/stray-dogs/,06-10-2014 09:53:02
+< West Lindsey District Council,32UH,376,Find out about the dog warden service,432,8,http://www.west-lindsey.gov.uk/residents/your-community/crime-and-disorder/stray-dogs/,06-10-2014 09:53:13
+---
+> West Lindsey District Council,32UH,376,Report a stray dog,432,0,http://www.west-lindsey.gov.uk/residents/your-community/community-safety/stray-dogs/,25-01-2016 09:03:39
+> West Lindsey District Council,32UH,376,Find out about the dog warden service,432,8,http://www.west-lindsey.gov.uk/residents/your-community/community-safety/stray-dogs/,25-01-2016 09:03:53
+78916c78913
+< West Lindsey District Council,32UH,376,Find out about dog fouling,577,8,http://www.west-lindsey.gov.uk/residents/your-community/crime-and-disorder/stray-dogs/,06-10-2014 09:11:14
+---
+> West Lindsey District Council,32UH,376,Find out about dog fouling,577,8,http://www.west-lindsey.gov.uk/residents/your-community/community-safety/stray-dogs/,25-01-2016 09:07:24
+78920c78917
+< West Lindsey District Council,32UH,376,Find out about graffiti problems,584,8,http://www.west-lindsey.gov.uk/residents/your-community/crime-and-disorder/graffiti/,06-10-2014 09:18:15
+---
+> West Lindsey District Council,32UH,376,Find out about graffiti problems,584,8,http://www.west-lindsey.gov.uk/residents/your-community/community-safety/graffiti/,25-01-2016 09:06:41
+78922,78924c78919,78921
+< West Lindsey District Council,32UH,376,Find out about vandalism,586,8,http://www.west-lindsey.gov.uk/residents/your-community/crime-and-disorder/,06-10-2014 09:21:25
+< West Lindsey District Council,32UH,376,Report flytipping,587,0,http://www.west-lindsey.gov.uk/residents/your-community/crime-and-disorder/fly-tipping/,06-10-2014 09:01:36
+< West Lindsey District Council,32UH,376,Find out about flytipping,587,8,http://www.west-lindsey.gov.uk/residents/your-community/crime-and-disorder/fly-tipping/,06-10-2014 09:01:51
+---
+> West Lindsey District Council,32UH,376,Find out about vandalism,586,8,http://www.west-lindsey.gov.uk/residents/your-community/community-safety/,25-01-2016 09:06:02
+> West Lindsey District Council,32UH,376,Report flytipping,587,0,http://www.west-lindsey.gov.uk/residents/your-community/community-safety/fly-tipping/,25-01-2016 09:04:31
+> West Lindsey District Council,32UH,376,Find out about flytipping,587,8,http://www.west-lindsey.gov.uk/residents/your-community/community-safety/fly-tipping/,25-01-2016 09:04:53
+78996c78993
+< West Lindsey District Council,32UH,376,Find out about community safety,870,8,http://www.west-lindsey.gov.uk/residents/your-community/crime-and-disorder/,06-10-2014 08:54:43
+---
+> West Lindsey District Council,32UH,376,Find out about community safety,870,8,http://www.west-lindsey.gov.uk/residents/your-community/community-safety/,25-01-2016 09:03:08
+83411c83408
+< Wycombe District Council,11UF,395,Find out about making insurance claims against the council,124,8,http://www.wycombe.gov.uk/council-services/council-and-democracy/council-offices/insurance-claims.aspx,10-12-2009 09:32:15
+---
+> Wycombe District Council,11UF,395,Find out about making insurance claims against the council,124,8,http://www.wycombe.gov.uk/contact-us.aspx,25-01-2016 09:42:38
+84420,84421c84417,84418
+< Isle of Anglesey County Council,00NA,410,Check your eligibility for council tax benefit,63,0,http://www.anglesey.gov.uk/advice-and-benefits/benefits/housing-and-council-tax-benefit-online-application/,07-05-2013 16:49:14
+< Isle of Anglesey County Council,00NA,410,Find out about council tax benefit,63,8,http://www.anglesey.gov.uk/advice-and-benefits/benefits/housing-and-council-tax-benefit-online-application/,07-05-2013 16:49:14
+---
+> Isle of Anglesey County Council,00NA,410,Check your eligibility for council tax benefit,63,0,http://www.anglesey.gov.uk/advice-and-benefits/council-tax/reduce-your-council-tax/council-tax-reduction-scheme/,25-01-2016 12:42:04
+> Isle of Anglesey County Council,00NA,410,Find out about council tax benefit,63,8,http://www.anglesey.gov.uk/advice-and-benefits/council-tax/reduce-your-council-tax/council-tax-reduction-scheme/,25-01-2016 12:42:20
+89532c89529
+< Elmbridge Borough Council,43UB,451,Find out about discounts on council tax,59,8,http://www.elmbridge.gov.uk/taxation/ctax/discounts.htm,20-10-2009 12:12:06
+---
+> Elmbridge Borough Council,43UB,451,Find out about discounts on council tax,59,8,http://www.elmbridge.gov.uk/taxation/Exemptions.htm,25-01-2016 15:28:40
+89534c89531
+< Elmbridge Borough Council,43UB,451,Find out about exemptions from council tax,60,8,http://www.elmbridge.gov.uk/taxation/Exemptions.htm,20-10-2009 12:12:06
+---
+> Elmbridge Borough Council,43UB,451,Find out about exemptions from council tax,60,8,http://www.elmbridge.gov.uk/taxation/Exemptions.htm,25-01-2016 15:27:57
+89664c89661
+< Elmbridge Borough Council,43UB,451,Find out about council car parks,478,8,http://www.elmbridge.gov.uk/environment/parking/offstreetparking.htm,09-07-2013 10:44:49
+---
+> Elmbridge Borough Council,43UB,451,Find out about council car parks,478,8,http://www.elmbridge.gov.uk/environment/parking/carparklist.htm,25-01-2016 15:24:37
+89668c89665
+< Elmbridge Borough Council,43UB,451,Apply for building regulations approval,499,0,http://www.elmbridge.gov.uk/buildcon/bcforms.htm,20-10-2009 12:12:08
+---
+> Elmbridge Borough Council,43UB,451,Apply for building regulations approval,499,0,http://ebcsltd.co.uk/,25-01-2016 15:26:44
+89707c89704
+< Elmbridge Borough Council,43UB,451,Find out about dangerous buildings and structures,600,8,http://www.elmbridge.gov.uk/buildcon/dangerousstructure.htm,20-10-2009 12:12:09
+---
+> Elmbridge Borough Council,43UB,451,Find out about dangerous buildings and structures,600,8,http://ebcsltd.co.uk/,25-01-2016 15:30:23
+89742c89739
+< Elmbridge Borough Council,43UB,451,Find out about open and derelict properties,684,8,http://www.elmbridge.gov.uk/buildcon/dangerousstructure.htm,20-10-2009 12:12:09
+---
+> Elmbridge Borough Council,43UB,451,Find out about open and derelict properties,684,8,http://ebcsltd.co.uk/,25-01-2016 15:30:02
+93576,93577c93573,93574
+< Newport City Council,00PR,481,Find out about a needs assessment by social services,209,8,http://www.newport.gov.uk/_dc/index.cfm?fuseaction=socialcare.assessment,02-05-2013 14:21:59
+< Newport City Council,00PR,481,Find out about advice and support for adult carers,225,8,http://www.newport.gov.uk/en/Care-Support/Carers.aspx,03-10-2014 14:40:18
+---
+> Newport City Council,00PR,481,Find out about a needs assessment by social services,209,8,http://www.newport.gov.uk/en/Care-Support/How-social-services-can-help/Assessment/Assessment-homepage.aspx,25-01-2016 09:27:36
+> Newport City Council,00PR,481,Find out about advice and support for adult carers,225,8,http://www.newport.gov.uk/en/Care-Support/Carers/Carers.aspx,25-01-2016 09:27:36
+93580c93577
+< Newport City Council,00PR,481,Find out about care in your own home,242,8,http://www.newport.gov.uk/en/Care-Support/Care-services/Home-care.aspx,04-10-2014 08:24:09
+---
+> Newport City Council,00PR,481,Find out about care in your own home,242,8,http://www.newport.gov.uk/en/Care-Support/Older-People/Home-care.aspx,25-01-2016 09:27:36
+93589,93590c93586,93587
+< Newport City Council,00PR,481,Find out about direct payments,287,8,http://www.newport.gov.uk/_dc/index.cfm?fuseaction=socialcare.directpayments,02-05-2013 14:21:59
+< Newport City Council,00PR,481,Find out about residential care,292,8,http://www.newport.gov.uk/en/Care-Support/Care-services/Residential-care.aspx,03-10-2014 14:42:52
+---
+> Newport City Council,00PR,481,Find out about direct payments,287,8,http://www.newport.gov.uk/en/Care-Support/How-social-services-can-help/Direct-payments.aspx,25-01-2016 09:27:36
+> Newport City Council,00PR,481,Find out about residential care,292,8,http://www.newport.gov.uk/en/Care-Support/Older-People/Residential-care.aspx,25-01-2016 09:27:36
+93592c93589
+< Newport City Council,00PR,481,Find out about care - home assessment,316,8,http://www.newport.gov.uk/en/Care-Support/Care-services/Home-care.aspx,04-10-2014 08:31:58
+---
+> Newport City Council,00PR,481,Find out about care - home assessment,316,8,http://www.newport.gov.uk/en/Care-Support/Older-People/Home-care.aspx,25-01-2016 09:27:36
+93716c93713
+< Newport City Council,00PR,481,Find out about community safety,870,8,http://www.newport.gov.uk/_dc/index.cfm?fuseaction=commsafety.homepage,02-05-2013 14:21:59
+---
+> Newport City Council,00PR,481,Find out about community safety,870,8,http://www.newport.gov.uk/en/Transport-Streets/Anti-social-behaviour/Anti-social-behaviour.aspx,26-01-2016 09:19:46
+93726c93723
+< Newport City Council,00PR,481,Find out about care at home services,1204,8,http://www.newport.gov.uk/en/Care-Support/Care-services/Home-care.aspx,03-10-2014 14:43:39
+---
+> Newport City Council,00PR,481,Find out about care at home services,1204,8,http://www.newport.gov.uk/en/Care-Support/Older-People/Home-care.aspx,25-01-2016 09:27:36
+93739c93736
+< Newport City Council,00PR,481,Find out about family information services,1579,8,http://www.newport.gov.uk/_dc/index.cfm?fuseaction=childfamily.familyinformation,02-05-2013 14:21:59
+---
+> Newport City Council,00PR,481,Find out about family information services,1579,8,http://www.newport.gov.uk/en/Care-Support/Children-and-families/Family-Information-Service/Newport-Family-Information-Service.aspx,25-01-2016 09:27:36
+95681c95678
+< Torfaen County Borough Council,00PM,500,Appeal against your parking fine,471,0,http://www.torfaen.gov.uk/en/RoadsTravelParking/Parking/Carparks-council/Car-Parks-in-Pontypool/Parking-Fines.aspx,25-02-2015 16:47:52
+---
+> Torfaen County Borough Council,00PM,500,Appeal against your parking fine,471,0,http://www.torfaen.gov.uk/en/RoadsTravelParking/Parking/Carparks-council/Parking-Fines/Parking-Fines.aspx,26-01-2016 08:07:01
+95683c95680
+< Torfaen County Borough Council,00PM,500,Find out about parking fines,471,8,http://www.torfaen.gov.uk/en/RoadsTravelParking/Parking/Carparks-council/Car-Parks-in-Pontypool/Parking-Fines.aspx,25-02-2015 16:48:03
+---
+> Torfaen County Borough Council,00PM,500,Find out about parking fines,471,8,http://www.torfaen.gov.uk/en/RoadsTravelParking/Parking/Carparks-council/Parking-Fines/Parking-Fines.aspx,26-01-2016 08:07:14
